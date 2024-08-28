@@ -23,5 +23,5 @@ I'm Nihal, a dedicated Full Stack Developer specializing in the MERN stack (Mong
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### contact for more [!LinkedIn](https://linkedin.com/in/nihal-karimbil-391189316/)
+### contact for more:- [LinkedIn](https://linkedin.com/in/nihal-karimbil-391189316/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
