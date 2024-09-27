@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Nihal, a dedicated Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). My passion lies in solving complex problems by crafting effective, scalable solutions. I believe in writing clean, readable code that not only works but is maintainable and easy to understand. Whether it's building dynamic frontends or robust backends, I'm committed to delivering high-quality applications that meet the needs of users and businesses alike.<br>
+I'm Nihal, a Dedicated Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). My passion lies in solving complex problems by crafting effective, scalable solutions. I believe in writing clean, readable code that not only works but is maintainable and easy to understand. Whether it's building dynamic frontends or robust backends, I'm committed to delivering high-quality applications that meet the needs of users and businesses alike.<br>
 
 
 ## 🌐 Socials:
@@ -21,6 +21,5 @@ I'm Nihal, a dedicated Full Stack Developer specializing in the MERN stack (Mong
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### contact for more:- [LinkedIn](https://linkedin.com/in/nihal-karimbil-391189316/)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### contact for more: [LinkedIn](https://linkedin.com/in/nihal-karimbil-391189316/)
