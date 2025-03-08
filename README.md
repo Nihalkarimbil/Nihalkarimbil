@@ -22,4 +22,4 @@ I'm Nihal, a Dedicated Full Stack Developer specializing in the MERN stack (Mong
 
 
 
-### contact for more: [LinkedIn]((https://www.linkedin.com/in/nihal-karimbil/))
+### contact for more: [LinkedIn](https://www.linkedin.com/in/nihal-karimbil/)
