@@ -67,5 +67,8 @@ Always eager to learn new technologies and enhance my skills.
   <a href="mailto:muhammednihalk4@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="28" alt="Gmail logo" />
   </a>
+  <a href="https://www.instagram.com/niha.l._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="28" alt="instagram logo"  />
+  </a>
 </div>
 
