@@ -4,8 +4,6 @@
 <p align="left"> A Full Stack Developer specialized in the MERN Stack!</p>
 
 ###
-<h3 align="left">my Portfolio:</h3><a>https://nihalkarimbil.vercel.app/</a>
-
 
 <h3 align="left">🛠️ About Me</h3>
 <p align="left">
@@ -66,6 +64,7 @@ Always eager to learn new technologies and enhance my skills.
 <h3 align="left">📬 Connect with Me</h3>
 
 ###
+#### My portofolio: https://nihalkarimbil.vercel.app
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nihal-karimbil/" target="_blank">
