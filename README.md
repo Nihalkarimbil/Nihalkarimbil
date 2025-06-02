@@ -64,7 +64,7 @@ Always eager to learn new technologies and enhance my skills.
 <h3 align="left">📬 Connect with Me</h3>
 
 ###
-#### My portofolio: https://nihalkarimbil.vercel.app
+#### My portfolio: https://nihalkarimbil.vercel.app
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nihal-karimbil/" target="_blank">
