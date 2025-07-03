@@ -64,7 +64,7 @@ Always eager to learn new technologies and enhance my skills.
 - 🏥 [**Vital Aid**](https://github.com/Nihalkarimbil/Vital_Aid): A health and care management application, built with Next.js.<br>
 - 🏡 [**Own-bnb**](https://github.com/Nihalkarimbil/ownBnB): A clone application of Airbnb.<br>
 - 🛋️ [**Furnitails**](https://github.com/Nihalkarimbil/furnitale-app): An e-commerce site for furniture, built with React.<br>
-- 🛋️ [**Expenco**](https://github.com/Nihalkarimbil/furnitale-app): An Monthly expence tracker application , built with Next js and PostgreSQL.<br>
+- 💰 [**Expenco**](https://github.com/Nihalkarimbil/Expenco): An Monthly expence tracker application , built with Next js and PostgreSQL.<br>
 
 ###
 
